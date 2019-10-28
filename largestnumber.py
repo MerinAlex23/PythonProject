@@ -6,14 +6,3 @@ for number in numbers:
 print(max)
 
 
-jio = [5, 2, 5, 2, 2]
-for pop in jio:
-    output = ""
-    for f in range(pop):
-     output = output+"x"
-    print(output)
-print(jio)
-matrix [
-    
-]
-
